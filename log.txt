@@ -1,0 +1,764 @@
+User Command: /usr/local/Cellar/node/8.1.4/bin/node,/Users/sandra/liri-node-app/liri.js
+User Command: /usr/local/Cellar/node/8.1.4/bin/node,/Users/sandra/liri-node-app/liri.js
+User Command: /usr/local/Cellar/node/8.1.4/bin/node,/Users/sandra/liri-node-app/liri.js
+LIRI Response:
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js movie-this undefined
+User Command: node liri.js movie-this undefined
+User Command: /usr/local/Cellar/node/8.1.4/bin/node,/Users/sandra/liri-node-app/liri.js
+LIRI Response:
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: Node liri.js do-what-it-says
+User Command: /usr/local/Cellar/node/8.1.4/bin/node,/Users/sandra/liri-node-app/liri.js
+LIRI Response:
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: /usr/local/Cellar/node/8.1.4/bin/node,/Users/sandra/liri-node-app/liri.js
+LIRI Response:
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: /usr/local/Cellar/node/8.1.4/bin/node,/Users/sandra/liri-node-app/liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js movie-this 
+
+ERROR: Retrieving OMDB entry -- nullUser Command: node liri.js movie-this Titanic 
+
+ERROR: Retrieving OMDB entry -- nullUser Command: node liri.js movie-this Troy 
+
+ERROR: Retrieving OMDB entry -- nullUser Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js movie-this Troy 
+
+ERROR: Retrieving OMDB entry -- nullUser Command: node liri.js movie-this Troy 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Troy
+Year Released: 14 May 2004
+IMBD Rating: 7.2
+Country Produced: USA, Malta, UK
+Language: English
+Plot: As the Greeks fall, they decided to head back home. King Priam decides to have one last battle with the Greeks to leave Troy for good. It was a night battle so the Greeks didn't knew, raining them down with flaming arrows and lighting huge balls of dry branches and rolling them down at the beach. It was a battle that Achilles wasn't in, but his cousin Patroclus pretended to be him by wearing his armor, his sword, his helmet, and his moves. Hector finally had a battle with Achilles not knowing it wasn't him. Patroclus was fast but Hector was faster, causing him to cut Patroclus's neck and finishing him with a sword to the heart.
+Actors: Julian Glover, Brian Cox, Nathan Jones, Adoni Maropis
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: /usr/local/Cellar/node/8.1.4/bin/node,/Users/sandra/liri-node-app/liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js do-what-it-says
+
+User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: /usr/local/Cellar/node/8.1.4/bin/node,/Users/sandra/liri-node-app/liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: /usr/local/Cellar/node/8.1.4/bin/node,/Users/sandra/liri-node-app/liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: /usr/local/Cellar/node/8.1.4/bin/node,/Users/sandra/liri-node-app/liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js movie-this The Titanic 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: The Titanic
+Year Released: N/A
+IMBD Rating: 6.5
+Country Produced: USA
+Language: English
+Plot: Documentary about the ship, Titanic.
+Actors: E.J. Smith
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js do-what-it-says
+
+User Command: /usr/local/Cellar/node/8.1.4/bin/node,/Users/sandra/liri-node-app/liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: /usr/local/Cellar/node/8.1.4/bin/node,/Users/sandra/liri-node-app/liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: /usr/local/Cellar/node/8.1.4/bin/node,/Users/sandra/liri-node-app/liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: /usr/local/Cellar/node/8.1.4/bin/node,/Users/sandra/liri-node-app/liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: /usr/local/Cellar/node/8.1.4/bin/node,/Users/sandra/liri-node-app/liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: /usr/local/Cellar/node/8.1.4/bin/node,/Users/sandra/liri-node-app/liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: /usr/local/Cellar/node/8.1.4/bin/node,/Users/sandra/liri-node-app/liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: /usr/local/Cellar/node/8.1.4/bin/node,/Users/sandra/liri-node-app/liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: /usr/local/Cellar/node/8.1.4/bin/node,/Users/sandra/liri-node-app/liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: The Sign
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+Preview Here: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=acca1e2e89ac43e4a0ea796ad0767e0b
+
+User Command: node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song "I Want it That Way"
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: I Want It That Way
+Artist: Backstreet Boys
+Album: The Hits--Chapter One
+Preview Here: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=acca1e2e89ac43e4a0ea796ad0767e0b
+
+User Command: /usr/local/Cellar/node/8.1.4/bin/node,/Users/sandra/liri-node-app/liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: /usr/local/Cellar/node/8.1.4/bin/node,/Users/sandra/liri-node-app/liri.js
+
+LIRI Response:
+
+Commands:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: /usr/local/Cellar/node/8.1.4/bin/node,/Users/sandra/liri-node-app/liri.js
+
+LIRI Response:
+
+Commands:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: /usr/local/Cellar/node/8.1.4/bin/node,/Users/sandra/liri-node-app/liri.js
+
+LIRI Response:
+
+Commands:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song "I Want it That Way"
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: I Want It That Way
+Artist: Backstreet Boys
+Album: The Hits--Chapter One
+Preview Here: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=acca1e2e89ac43e4a0ea796ad0767e0b
+
+User Command: node liri.js movie-this Troy 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Troy
+Year Released: 14 May 2004
+IMBD Rating: 7.2
+Country Produced: USA, Malta, UK
+Language: English
+Plot: As the Greeks fall, they decided to head back home. King Priam decides to have one last battle with the Greeks to leave Troy for good. It was a night battle so the Greeks didn't knew, raining them down with flaming arrows and lighting huge balls of dry branches and rolling them down at the beach. It was a battle that Achilles wasn't in, but his cousin Patroclus pretended to be him by wearing his armor, his sword, his helmet, and his moves. Hector finally had a battle with Achilles not knowing it wasn't him. Patroclus was fast but Hector was faster, causing him to cut Patroclus's neck and finishing him with a sword to the heart.
+Actors: Julian Glover, Brian Cox, Nathan Jones, Adoni Maropis
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: /usr/local/Cellar/node/8.1.4/bin/node,/Users/sandra/liri-node-app/liri.js
+
+LIRI Response:
+
+Commands:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: The Sign
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+Preview Here: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=acca1e2e89ac43e4a0ea796ad0767e0b
+
+User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: /usr/local/Cellar/node/8.1.4/bin/node,/Users/sandra/liri-node-app/liri.js
+
+LIRI Response:
+
+Commands:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js movie-this 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Mr. Nobody
+Year Released: 26 Sep 2013
+IMBD Rating: 7.9
+Rotten Tomatoes Rating: undefined
+Country Produced: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: In the year 2092, one hundred eighteen year old Nemo is recounting his life story to a reporter. He is less than clear, often times thinking that he is only thirty-four years of age. But his story becomes more confusing after he does focus on the fact of his current real age. He tells of his life at three primary points in his life: at age nine (when his parents divorced), age sixteen and age thirty-four. The confusing aspect of the story is that he tells of alternate life paths, often changing course with the flick of a decision at each of those ages. One life path has him ultimately married to Elise, a depressed woman who never got over the unrequited love she had for a guy named Stefano when she was a teenager and who asked Nemo to swear that when she died he would sprinkle her ashes on Mars. A second life path has him married to Jean. Their life is one of luxury but one also of utter boredom. And a third life path has him in a torrid romance with his step-sister Anna, the two who, as adults, would search for each other after having been torn apart as teenagers. These life paths also intersect, with the three women sometimes entering the alternate life in some other aspect. Are any of these lives real or are they all a figment of his imagination?
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-this Troy 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Troy
+Year Released: 14 May 2004
+IMBD Rating: 7.2
+Rotten Tomatoes Rating: undefined
+Country Produced: USA, Malta, UK
+Language: English
+Plot: As the Greeks fall, they decided to head back home. King Priam decides to have one last battle with the Greeks to leave Troy for good. It was a night battle so the Greeks didn't knew, raining them down with flaming arrows and lighting huge balls of dry branches and rolling them down at the beach. It was a battle that Achilles wasn't in, but his cousin Patroclus pretended to be him by wearing his armor, his sword, his helmet, and his moves. Hector finally had a battle with Achilles not knowing it wasn't him. Patroclus was fast but Hector was faster, causing him to cut Patroclus's neck and finishing him with a sword to the heart.
+Actors: Julian Glover, Brian Cox, Nathan Jones, Adoni Maropis
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-this Troy 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Troy
+Year Released: 14 May 2004
+IMBD Rating: 7.2
+Rotten Tomatoes Rating: undefined
+Country Produced: USA, Malta, UK
+Language: English
+Plot: As the Greeks fall, they decided to head back home. King Priam decides to have one last battle with the Greeks to leave Troy for good. It was a night battle so the Greeks didn't knew, raining them down with flaming arrows and lighting huge balls of dry branches and rolling them down at the beach. It was a battle that Achilles wasn't in, but his cousin Patroclus pretended to be him by wearing his armor, his sword, his helmet, and his moves. Hector finally had a battle with Achilles not knowing it wasn't him. Patroclus was fast but Hector was faster, causing him to cut Patroclus's neck and finishing him with a sword to the heart.
+Actors: Julian Glover, Brian Cox, Nathan Jones, Adoni Maropis
+
+User Command: /usr/local/Cellar/node/8.1.4/bin/node,/Users/sandra/liri-node-app/liri.js
+
+LIRI Response:
+
+Commands:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: The Sign
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+Preview Here: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=acca1e2e89ac43e4a0ea796ad0767e0b
+
+User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: /usr/local/Cellar/node/8.1.4/bin/node,/Users/sandra/liri-node-app/liri.js
+
+LIRI Response:
+
+Commands:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song I will always love you 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: I Will Always Love You
+Artist: Whitney Houston
+Album: The Bodyguard - Original Soundtrack Album
+Preview Here: https://p.scdn.co/mp3-preview/91e6d3e0b48cda2f3a1b2391a1c1384fbf73b8a8?cid=acca1e2e89ac43e4a0ea796ad0767e0b
+
+User Command: /usr/local/Cellar/node/8.1.4/bin/node,/Users/sandra/liri-node-app/liri.js
+LIRI Response:
+
+Commands:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: /usr/local/Cellar/node/8.1.4/bin/node,/Users/sandra/liri-node-app/liri.js
+LIRI Response:
+
+Commands:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: /usr/local/Cellar/node/8.1.4/bin/node,/Users/sandra/liri-node-app/liri.js
+LIRI Response:
+
+Commands:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: /usr/local/Cellar/node/8.1.4/bin/node,/Users/sandra/liri-node-app/liri.js
+LIRI Response:
+
+Commands:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+User Command: /usr/local/Cellar/node/8.1.4/bin/node,/Users/sandra/liri-node-app/liri.js
+LIRI Response:
+
+Commands:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: /usr/local/Cellar/node/8.1.4/bin/node,/Users/sandra/liri-node-app/liri.js
+LIRI Response:
+
+Commands:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: /usr/local/Cellar/node/8.1.4/bin/node,/Users/sandra/liri-node-app/liri.js
+LIRI Response:
+
+Commands:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song "I Want it That Way"
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: I Want It That Way
+Artist: Backstreet Boys
+Album: The Hits--Chapter One
+Preview Here: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=acca1e2e89ac43e4a0ea796ad0767e0b
+
+User Command: node liri.js spotify-this-song 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: The Sign
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+Preview Here: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=acca1e2e89ac43e4a0ea796ad0767e0b
+
+User Command: node liri.js movie-this 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Mr. Nobody
+Year Released: 26 Sep 2013
+IMBD Rating: 7.9
+Rotten Tomatoes Rating: undefined
+Country Produced: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: In the year 2092, one hundred eighteen year old Nemo is recounting his life story to a reporter. He is less than clear, often times thinking that he is only thirty-four years of age. But his story becomes more confusing after he does focus on the fact of his current real age. He tells of his life at three primary points in his life: at age nine (when his parents divorced), age sixteen and age thirty-four. The confusing aspect of the story is that he tells of alternate life paths, often changing course with the flick of a decision at each of those ages. One life path has him ultimately married to Elise, a depressed woman who never got over the unrequited love she had for a guy named Stefano when she was a teenager and who asked Nemo to swear that when she died he would sprinkle her ashes on Mars. A second life path has him married to Jean. Their life is one of luxury but one also of utter boredom. And a third life path has him in a torrid romance with his step-sister Anna, the two who, as adults, would search for each other after having been torn apart as teenagers. These life paths also intersect, with the three women sometimes entering the alternate life in some other aspect. Are any of these lives real or are they all a figment of his imagination?
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: /usr/local/Cellar/node/8.1.4/bin/node,/Users/sandra/liri-node-app/liri.js
+LIRI Response:
+
+Commands:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: /usr/local/Cellar/node/8.1.4/bin/node,/Users/sandra/liri-node-app/liri.js
+LIRI Response:
+
+Commands:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+
+User Command: /usr/local/Cellar/node/8.1.4/bin/node,/Users/sandra/liri-node-app/liri.js,my-tweets-novaStarseed
+LIRI Response:
+
+Commands:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+
+User Command: /usr/local/Cellar/node/8.1.4/bin/node,/Users/sandra/liri-node-app/liri.js
+LIRI Response:
+
+Commands:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js movie-this Troy 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Troy
+Year Released: 14 May 2004
+IMBD Rating: 7.2
+Rotten Tomatoes Rating: undefined
+Country Produced: USA, Malta, UK
+Language: English
+Plot: As the Greeks fall, they decided to head back home. King Priam decides to have one last battle with the Greeks to leave Troy for good. It was a night battle so the Greeks didn't knew, raining them down with flaming arrows and lighting huge balls of dry branches and rolling them down at the beach. It was a battle that Achilles wasn't in, but his cousin Patroclus pretended to be him by wearing his armor, his sword, his helmet, and his moves. Hector finally had a battle with Achilles not knowing it wasn't him. Patroclus was fast but Hector was faster, causing him to cut Patroclus's neck and finishing him with a sword to the heart.
+Actors: Julian Glover, Brian Cox, Nathan Jones, Adoni Maropis
+
+User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]
