@@ -847,3 +847,127 @@ Artist: Backstreet Boys
 Album: The Hits--Chapter One
 Preview Here: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=acca1e2e89ac43e4a0ea796ad0767e0b
 
+User Command: /usr/local/Cellar/node/8.1.4/bin/node,/Users/sandra/liri-node-app/liri.js
+LIRI Response:
+
+Commands:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Fri Oct 06 22:42:21 +0000 2017
+Tweets: Twitter Apps https://t.co/MTdbr7Adko via @twitter
+------------------------
+Created on: Fri Oct 06 14:23:12 +0000 2017
+Tweets: What a wonderful day!
+------------------------
+Created on: Fri Oct 06 14:22:39 +0000 2017
+Tweets: RT @tim_cook: Remembering Steve today. Still with us, still inspiring us. “Make something wonderful, and put it out there.” https://t.co/7a…
+------------------------
+Created on: Wed Oct 04 23:14:21 +0000 2017
+Tweets: Today is nice!
+------------------------
+Created on: Sun Oct 01 21:17:26 +0000 2017
+Tweets: "The Pure and Simple Truth is Rarely Pure and Never Simple" - Oscar Wilde
+------------------------
+Created on: Sun Oct 01 21:15:10 +0000 2017
+Tweets: "To Define is to Limit"
+------------------------
+
+User Command: node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song "I Want it That Way"
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: I Want It That Way
+Artist: Backstreet Boys
+Album: The Hits--Chapter One
+Preview Here: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=acca1e2e89ac43e4a0ea796ad0767e0b
+
+User Command: /usr/local/Cellar/node/8.1.4/bin/node,/Users/sandra/liri-node-app/liri.js
+LIRI Response:
+
+Commands:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Fri Oct 06 22:42:21 +0000 2017
+Tweets: Twitter Apps https://t.co/MTdbr7Adko via @twitter
+------------------------
+Created on: Fri Oct 06 14:23:12 +0000 2017
+Tweets: What a wonderful day!
+------------------------
+Created on: Fri Oct 06 14:22:39 +0000 2017
+Tweets: RT @tim_cook: Remembering Steve today. Still with us, still inspiring us. “Make something wonderful, and put it out there.” https://t.co/7a…
+------------------------
+Created on: Wed Oct 04 23:14:21 +0000 2017
+Tweets: Today is nice!
+------------------------
+Created on: Sun Oct 01 21:17:26 +0000 2017
+Tweets: "The Pure and Simple Truth is Rarely Pure and Never Simple" - Oscar Wilde
+------------------------
+Created on: Sun Oct 01 21:15:10 +0000 2017
+Tweets: "To Define is to Limit"
+------------------------
+
+User Command: /usr/local/Cellar/node/8.1.4/bin/node,/Users/sandra/liri-node-app/liri.js
+LIRI Response:
+
+Commands:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song "I Want it That Way"
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: I Want It That Way
+Artist: Backstreet Boys
+Album: The Hits--Chapter One
+Preview Here: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=acca1e2e89ac43e4a0ea796ad0767e0b
+
+User Command: node liri.js spotify-this-song I did it my way 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: I Did It My Way
+Artist: Oscar D'León
+Album: Big Band Classics
+Preview Here: https://p.scdn.co/mp3-preview/0ee294a05a18f1f1cce75d4a46143ef9de6628e6?cid=acca1e2e89ac43e4a0ea796ad0767e0b
+
